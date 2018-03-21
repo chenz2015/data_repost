@@ -52,13 +52,11 @@ TabView {
 
     Tab {
         title: "风电机组"
-        WindTurb { objectName: wt }
+        WindTurb {}
     }
     Tab {
         title: "储能系统"
-        Rectangle {
-            color: "#eeeeee"
-        }
+        PowerSystem {}
     }
 
     Tab {
