@@ -368,6 +368,7 @@ PageView{
             font.pixelSize: 20
             color: "#0091ea"
         }
+        // Line 1
         Text {
             x: 10
             y: 360
@@ -397,148 +398,201 @@ PageView{
             color: "#212121"
         }
         Text {
-            x: 150
+            x: 250
             y: 360
-            text: "直流过压保护"
+            text: "交流欠压保护"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 350
+            y: 360
+            text: root.windturb1_40261
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 370
+            y: 360
+            text: "交流过频保护"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 470
+            y: 360
+            text: root.windturb1_40261
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        // Line 2
+        Text {
+            x: 10
+            y: 380
+            text: "交流欠频保护"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 110
+            y: 380
+            text: root.windturb1_40261
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 130
+            y: 380
+            text: "过载保护"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 230
+            y: 380
+            text: root.windturb1_40261
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 250
-            y: 360
-            text: root.windturb1_40261
-            font.pixelSize: 15
-            color: "#212121"
-        }
-
-
-        Text {
-            x: 10
-            y: 400
-            text: "变桨故障"
+            y: 380
+            text: "过温保护"
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
-            x: 10
-            y: 420
-            text: "逆变器故障"
-            font.pixelSize: 15
-            color: "#212121"
-        }
-        Text {
-            //id: windturb1_40261
-            x: 100
+            x: 350
             y: 380
             text: root.windturb1_40261
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
-            //id: windturb1_40010_2
-            x: 100
-            y: 400
-            text: root.windturb1_40010_2
-            font.pixelSize: 15
-            color: "#212121"
-        }
-        Text {
-            //id: windturb1_40010_5
-            x: 100
-            y: 420
-            text: root.windturb1_40010_5
-            font.pixelSize: 15
-            color: "#212121"
-        }
-
-        Text {
-            x: 120
+            x: 370
             y: 380
-            text: "电机超速"
+            text: "绝缘保护"
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
-            x: 120
-            y: 400
-            text: "电机故障"
-            font.pixelSize: 15
-            color: "#212121"
-        }
-        Text {
-            x: 120
-            y: 420
-            text: "安全链故障"
-            font.pixelSize: 15
-            color: "#212121"
-        }
-        Text {
-            //id: windturb1_40010_0
-            x: 210
+            x: 470
             y: 380
-            text: root.windturb1_40010_0
+            text: root.windturb1_40261
             font.pixelSize: 15
             color: "#212121"
         }
+        // Line 3
         Text {
-            //id: windturb1_40010_3
-            x: 210
+            x: 10
             y: 400
-            text: root.windturb1_40010_3
+            text: "直流过压保护"
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
-            //id: windturb1_40010_6
-            x: 210
-            y: 420
-            text: root.windturb1_40010_6
+            x: 110
+            y: 400
+            text: root.windturb1_40261
             font.pixelSize: 15
             color: "#212121"
         }
-
         Text {
-            x: 230
-            y: 380
-            text: "直流过压"
+            x: 130
+            y: 400
+            text: "直流欠压保护"
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 230
             y: 400
-            text: "偏航故障"
+            text: root.windturb1_40261
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
-            x: 230
-            y: 420
-            text: "大风报警"
-            font.pixelSize: 15
-            color: "#212121"
-        }
-        Text {
-            //id: windturb1_40010_1
-            x: 320
-            y: 380
-            text: root.windturb1_40010_1
-            font.pixelSize: 15
-            color: "#212121"
-        }
-        Text {
-            //id: windturb1_40010_4
-            x: 320
+            x: 250
             y: 400
-            text: root.windturb1_40010_4
+            text: "内部短路保护"
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
-            //id: windturb1_40010_7
-            x: 320
+            x: 350
+            y: 400
+            text: root.windturb1_40261
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 370
+            y: 400
+            text: "直流极性反接保护"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 470+30
+            y: 400
+            text: root.windturb1_40261
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        // Line 4
+        Text {
+            x: 10
             y: 420
-            text: root.windturb1_40010_7
+            text: "相序错误保护"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 110
+            y: 420
+            text: root.windturb1_40261
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 130
+            y: 420
+            text: "开关状态异常保护"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 230+30
+            y: 420
+            text: root.windturb1_40261
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 250+30
+            y: 420
+            text: "系统状态流保护"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 350+30+30
+            y: 420
+            text: root.windturb1_40261
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 370+30+30
+            y: 420
+            text: "响应BMS故障停机"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 470+30+30+30
+            y: 420
+            text: root.windturb1_40261
             font.pixelSize: 15
             color: "#212121"
         }

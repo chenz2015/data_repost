@@ -13,7 +13,6 @@ PageView{
             text: "1号机组"
             font.pixelSize: 30
             color: "#212121"
-
             anchors.horizontalCenter: parent.horizontalCenter
             anchors.top: parent.top
             anchors.margins: 5

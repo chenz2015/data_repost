@@ -105,6 +105,7 @@ def packet_windturbine_1(packet, qroot):
         
 
 def sniff_data(qroot):
+    #cap = pyshark.FileCapture('F:\\temp\\4.pcapng')
     cap = pyshark.FileCapture('D:\\4.pcapng')
     for p in cap:
         if 'MODBUS' in p:
