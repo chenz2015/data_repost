@@ -632,6 +632,355 @@ PageView{
             anchors.margins: 5
         }
 
+        Text {
+            x: 10
+            y: 50
+            text: "机组参数"
+            font.pixelSize: 20
+            color: "#0091ea"
+        }
+        Text {
+            x: 10
+            y: 75
+            text: "风向(度)"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 10
+            y: 95
+            text: "风速(m/s)"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 10
+            y: 115
+            text: "转速(r/min)"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 10
+            y: 135
+            text: "电网电压(V)"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 10
+            y: 155
+            text: "电网电流(A)"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 10
+            y: 175
+            text: "有功功率(kw)"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 10
+            y: 195
+            text: "无功功率(kvar)"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 10
+            y: 215
+            text: "电网频率(Hz)"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 10
+            y: 235
+            text: "累计发电量(kwh)"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+
+        Text {
+            x: 200
+            y: 75
+            text: root.var_nonbool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 200
+            y: 95
+            text: root.var_nonbool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 200
+            y: 115
+            text: root.var_nonbool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 200
+            y: 135
+            text: root.var_nonbool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 200
+            y: 155
+            text: root.var_nonbool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 200
+            y: 175
+            text: root.var_nonbool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 200
+            y: 195
+            text: root.var_nonbool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 200
+            y: 215
+            text: root.var_nonbool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 200
+            y: 235
+            text: root.var_nonbool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        //..........
+        Text {
+            x: 10
+            y: 255+25
+            text: "运行状态"
+            font.pixelSize: 20
+            color: "#0091ea"
+        }
+        Text {
+            x: 10
+            y: 280+25
+            text: "就地控制"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 10
+            y: 300+25
+            text: "变流器待机"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 80
+            y: 280+25
+            text: root.var_bool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 100
+            y: 300+25
+            text: root.var_bool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 100
+            y: 280+25
+            text: "远程控制"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 120
+            y: 300+25
+            text: "运行状态"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 170
+            y: 280+25
+            text: root.var_bool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 190
+            y: 300+25
+            text: root.var_bool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 190
+            y: 280+25
+            text: "手动控制"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 210
+            y: 300+25
+            text: "停机状态"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 260
+            y: 280+25
+            text: root.var_bool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 280
+            y: 300+25
+            text: root.var_bool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 280
+            y: 280+25
+            text: "自动控制"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 350
+            y: 280+25
+            text: root.var_bool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        //............
+        Text {
+            x: 10
+            y: 355
+            text: "故障报警"
+            font.pixelSize: 20
+            color: "#0091ea"
+        }
+        Text {
+            x: 10
+            y: 380
+            text: "通讯故障"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 100
+            y: 380
+            text: root.var_bool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+
+        Text {
+            x: 120
+            y: 380
+            text: "电机超速"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 120
+            y: 400
+            text: "偏航故障"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 210
+            y: 380
+            text: root.var_bool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 210
+            y: 400
+            text: root.var_bool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+
+        Text {
+            x: 230
+            y: 380
+            text: "大风报警"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 230
+            y: 400
+            text: "逆变器故障"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 320
+            y: 380
+            text: root.var_bool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 320
+            y: 400
+            text: root.var_bool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+
+        Text {
+            x: 340
+            y: 380
+            text: "变桨故障"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 340
+            y: 400
+            text: "电机故障"
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 430
+            y: 380
+            text: root.var_bool
+            font.pixelSize: 15
+            color: "#212121"
+        }
+        Text {
+            x: 430
+            y: 400
+            text: root.var_bool
+            font.pixelSize: 15
+            color: "#212121"
+        }
     }
 }
 

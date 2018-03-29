@@ -5,23 +5,26 @@ import QtQuick.Controls 1.4
 
 
 TabView {
+    //Template
+    property string var_nonbool: 'XXXX'
+    property string var_bool: 'Y'
     //风电机组1 数值
-    property string windturb1_40007: '0000'
     property string windturb1_40005: '0000'
     property string windturb1_40006: '0000'
+    property string windturb1_40007: '0000'
     property string windturb1_40008: '0000'
     property string windturb1_40009: '0000'
     property string windturb1_40260: '0000'
-    property string windturb1_40071: '0000'
-    property string windturb1_40072: '0000'
-    property string windturb1_40075: '0000'
     property string windturb1_40065: '0000'
     property string windturb1_40066: '0000'
     property string windturb1_40067: '0000'
     property string windturb1_40068: '0000'
     property string windturb1_40069: '0000'
     property string windturb1_40070: '0000'
+    property string windturb1_40071: '0000'
+    property string windturb1_40072: '0000'
     property string windturb1_40073: '0000'
+    property string windturb1_40075: '0000'
     //风电机组1 布尔
     property string windturb1_40001_1: '-'
     property string windturb1_40003_1: '-'

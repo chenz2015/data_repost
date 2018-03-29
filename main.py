@@ -99,18 +99,44 @@ def packet_windturbine_1(packet, qroot):
                                                     'windturb1_40004_2',\
                                                     'windturb1_40004_3'], qroot)
 
-            
+def packet_PCS(packet, qroot):
+    packet_data_str = []
+    if packet['MODBUS'].func_code == '3':
+        pass
+    else:
+        return
+    if packet['MODBUS'].byte_cnt == '8':
+        for field in packet['MODBUS']._get_all_fields_with_alternates():
+            if isinstance(field, pyshark.packet.layer.LayerFieldsContainer):
+                if field.main_field.get_default_value()[0] == 'R':
+                    packet_data_str.append(field.raw_value)
+            if isinstance(field, pyshark.packet.layer.LayerField):
+                if field.get_default_value()[0] == 'R':
+                    packet_data_str.append(field.raw_value)
+        print(packet_data_str)
+        
+    if packet['MODBUS'].byte_cnt == '32':
+        for field in packet['MODBUS']._get_all_fields_with_alternates():
+            if isinstance(field, pyshark.packet.layer.LayerFieldsContainer):
+                if field.main_field.get_default_value()[0] == 'R':
+                    packet_data_str.append(field.raw_value)
+            if isinstance(field, pyshark.packet.layer.LayerField):
+                if field.get_default_value()[0] == 'R':
+                    packet_data_str.append(field.raw_value)
+        print(packet_data_str)         
         
         
         
 
 def sniff_data(qroot):
-    #cap = pyshark.FileCapture('F:\\temp\\4.pcapng')
-    cap = pyshark.FileCapture('D:\\4.pcapng')
+    cap = pyshark.FileCapture('F:\\temp\\4.pcapng')
+    #cap = pyshark.FileCapture('D:\\4.pcapng')
     for p in cap:
         if 'MODBUS' in p:
             if p['IP'].src == '192.168.0.103':
                 packet_windturbine_1(p, qroot)
+            elif p['IP'].src == '192.168.0.221':
+                packet_PCS(p, qroot)
         else:
             continue
 
