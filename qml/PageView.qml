@@ -7,11 +7,9 @@ ListView{
     //height: 480
     model: pageModel
 
-    // 可视元素模型（直接输出可视元素）
     default property alias content: pageModel.children
     VisualItemModel {id: pageModel}
 
-    // 横向、只显示一个
     orientation: ListView.Horizontal
     snapMode: ListView.SnapOneItem
     highlightRangeMode: ListView.StrictlyEnforceRange

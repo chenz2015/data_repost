@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>main.qml</file>
-        <file>ListViewIndicator.qml</file>
-        <file>PageView.qml</file>
-        <file>WindTurb.qml</file>
-        <file>PowerSystem.qml</file>
-    </qresource>
-</RCC>

@@ -64,35 +64,35 @@ PageView{
         Text {
             x: 200
             y: 75
-            text: root.windturb1_40007
+            text: root.pcsAdd2012Bit4Val0
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 200
             y: 95
-            text: root.windturb1_40005
+            text: root.pcsAdd2012Bit0Val1
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 200
             y: 115
-            text: root.windturb1_40006
+            text: root.pcsAdd2012Bit4Val2
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 200
             y: 135
-            text: "unknown"
+            text: root.pcsAdd2012Bit0Val0
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 200
             y: 155
-            text: root.windturb1_40008
+            text: root.pcsAdd2012Bit0Val2
             font.pixelSize: 15
             color: "#212121"
         }
@@ -143,42 +143,42 @@ PageView{
         Text {
             x: 500
             y: 75
-            text: root.windturb1_40065
+            text: root.pcsAdd2012Bit12Val1
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 500
             y: 95
-            text: root.windturb1_40066
+            text: root.pcsAdd2012Bit12Val0
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 500
             y: 115
-            text: root.windturb1_40067
+            text: root.pcsAdd2012Bit12Val4
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 500
             y: 135
-            text: root.windturb1_40068
+            text: root.pcsAdd2012Bit12Val5
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 500
             y: 155
-            text: root.windturb1_40069
+            text: root.pcsAdd2012Bit12Val3
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 500
             y: 175
-            text: root.windturb1_40070
+            text: root.pcsAdd2012Bit12Val2
             font.pixelSize: 15
             color: "#212121"
         }
@@ -235,42 +235,42 @@ PageView{
         Text {
             x: 200
             y: 220
-            text: root.windturb1_40070
+            text: root.pcsAdd2000
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 200
             y: 240
-            text: root.windturb1_40070
+            text: root.pcsAdd2001
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 200
             y: 260
-            text: root.windturb1_40070
+            text: root.pcsAdd2002
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 200
             y: 280
-            text: root.windturb1_40070
+            text: root.pcsAdd2008
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 200
             y: 300
-            text: root.windturb1_40070
+            text: root.pcsAdd2007
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 200
             y: 320
-            text: root.windturb1_40070
+            text: root.pcsAdd2006
             font.pixelSize: 15
             color: "#212121"
         }
@@ -320,42 +320,42 @@ PageView{
         Text {
             x: 500
             y: 220
-            text: root.windturb1_40070
+            text: root.pcsAdd2003
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 500
             y: 240
-            text: root.windturb1_40070
+            text: root.pcsAdd2004
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 500
             y: 260
-            text: root.windturb1_40070
+            text: root.pcsAdd2005
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 500
             y: 280
-            text: root.windturb1_40070
+            text: root.pcsAdd2009
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 500
             y: 300
-            text: root.windturb1_40070
+            text: root.pcsAdd2010
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 500
             y: 320
-            text: root.windturb1_40070
+            text: root.pcsAdd2011
             font.pixelSize: 15
             color: "#212121"
         }
@@ -378,7 +378,7 @@ PageView{
         Text {
             x: 110
             y: 360
-            text: root.windturb1_40261
+            text: root.pcsAdd2014Bit15
             font.pixelSize: 15
             color: "#212121"
         }
@@ -392,7 +392,7 @@ PageView{
         Text {
             x: 230
             y: 360
-            text: root.windturb1_40261
+            text: root.pcsAdd2014Bit14
             font.pixelSize: 15
             color: "#212121"
         }
@@ -406,7 +406,7 @@ PageView{
         Text {
             x: 350
             y: 360
-            text: root.windturb1_40261
+            text: root.pcsAdd2014Bit13
             font.pixelSize: 15
             color: "#212121"
         }
@@ -420,7 +420,7 @@ PageView{
         Text {
             x: 470
             y: 360
-            text: root.windturb1_40261
+            text: root.pcsAdd2014Bit12
             font.pixelSize: 15
             color: "#212121"
         }
@@ -435,7 +435,7 @@ PageView{
         Text {
             x: 110
             y: 380
-            text: root.windturb1_40261
+            text: root.pcsAdd2014Bit11
             font.pixelSize: 15
             color: "#212121"
         }
@@ -449,7 +449,7 @@ PageView{
         Text {
             x: 230
             y: 380
-            text: root.windturb1_40261
+            text: root.pcsAdd2014Bit9
             font.pixelSize: 15
             color: "#212121"
         }
@@ -463,7 +463,7 @@ PageView{
         Text {
             x: 350
             y: 380
-            text: root.windturb1_40261
+            text: root.pcsAdd2014Bit3
             font.pixelSize: 15
             color: "#212121"
         }
@@ -477,7 +477,7 @@ PageView{
         Text {
             x: 470
             y: 380
-            text: root.windturb1_40261
+            text: root.pcsAdd2014Bit2
             font.pixelSize: 15
             color: "#212121"
         }
@@ -492,7 +492,7 @@ PageView{
         Text {
             x: 110
             y: 400
-            text: root.windturb1_40261
+            text: root.pcsAdd2014Bit7
             font.pixelSize: 15
             color: "#212121"
         }
@@ -506,7 +506,7 @@ PageView{
         Text {
             x: 230
             y: 400
-            text: root.windturb1_40261
+            text: root.pcsAdd2014Bit6
             font.pixelSize: 15
             color: "#212121"
         }
@@ -520,7 +520,7 @@ PageView{
         Text {
             x: 350
             y: 400
-            text: root.windturb1_40261
+            text: root.pcsAdd2014Bit4
             font.pixelSize: 15
             color: "#212121"
         }
@@ -534,7 +534,7 @@ PageView{
         Text {
             x: 470+30
             y: 400
-            text: root.windturb1_40261
+            text: root.pcsAdd2014Bit5
             font.pixelSize: 15
             color: "#212121"
         }
@@ -549,7 +549,7 @@ PageView{
         Text {
             x: 110
             y: 420
-            text: root.windturb1_40261
+            text: root.pcsAdd2014Bit10
             font.pixelSize: 15
             color: "#212121"
         }
@@ -563,7 +563,7 @@ PageView{
         Text {
             x: 230+30
             y: 420
-            text: root.windturb1_40261
+            text: root.pcsAdd2014Bit1
             font.pixelSize: 15
             color: "#212121"
         }
@@ -577,7 +577,7 @@ PageView{
         Text {
             x: 350+30+30
             y: 420
-            text: root.windturb1_40261
+            text: root.pcsAdd2014Bit0
             font.pixelSize: 15
             color: "#212121"
         }
@@ -591,7 +591,7 @@ PageView{
         Text {
             x: 470+30+30+30
             y: 420
-            text: root.windturb1_40261
+            text: root.pcsAdd2015Bit0
             font.pixelSize: 15
             color: "#212121"
         }
@@ -643,21 +643,21 @@ PageView{
         Text {
             x: 70
             y: 75
-            text: root.windturb1_40001_1
+            text: root.bmsAdd0001Bit2Val1
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 70
             y: 95
-            text: root.windturb1_40001_1
+            text: root.bmsAdd0001Bit2Val0
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 70
             y: 115
-            text: root.windturb1_40001_1
+            text: root.bmsAdd0001Bit3
             font.pixelSize: 15
             color: "#212121"
         }
@@ -680,14 +680,14 @@ PageView{
         Text {
             x: 230
             y: 75
-            text: root.windturb1_40001_1
+            text: root.bmsAdd0001Bit1
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 230
             y: 95
-            text: root.windturb1_40001_1
+            text: root.bmsAdd0001Bit6
             font.pixelSize: 15
             color: "#212121"
         }
@@ -710,14 +710,14 @@ PageView{
         Text {
             x: 390
             y: 75
-            text: root.windturb1_40001_1
+            text: root.bmsAdd0001Bit4
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 390
             y: 95
-            text: root.windturb1_40001_1
+            text: root.bmsAdd0001Bit5
             font.pixelSize: 15
             color: "#212121"
         }
@@ -746,14 +746,14 @@ PageView{
         Text {
             x: 80
             y: 160
-            text: root.windturb1_40007
+            text: root.bmsAdd0006
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 80
             y: 180
-            text: root.windturb1_40007
+            text: root.bmsAdd0009
             font.pixelSize: 15
             color: "#212121"
         }
@@ -775,14 +775,14 @@ PageView{
         Text {
             x: 250
             y: 160
-            text: root.windturb1_40007
+            text: root.bmsAdd0012
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 250
             y: 180
-            text: root.windturb1_40007
+            text: root.bmsAdd0015
             font.pixelSize: 15
             color: "#212121"
         }
@@ -804,14 +804,14 @@ PageView{
         Text {
             x: 450
             y: 160
-            text: root.windturb1_40007
+            text: root.bmsAdd0018
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 450
             y: 180
-            text: root.windturb1_40007
+            text: root.bmsAdd0021
             font.pixelSize: 15
             color: "#212121"
         }
@@ -847,21 +847,21 @@ PageView{
         Text {
             x: 110
             y: 225
-            text: root.windturb1_40007
+            text: root.bmsAdd0004
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 110
             y: 245
-            text: root.windturb1_40007
+            text: root.bmsAdd0010
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 110
             y: 265
-            text: root.windturb1_40007
+            text: root.bmsAdd0019
             font.pixelSize: 15
             color: "#212121"
         }
@@ -890,21 +890,21 @@ PageView{
         Text {
             x: 250
             y: 225
-            text: root.windturb1_40007
+            text: root.bmsAdd0007
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 250
             y: 245
-            text: root.windturb1_40007
+            text: root.bmsAdd0013
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 250
             y: 265
-            text: root.windturb1_40007
+            text: root.bmsAdd0016
             font.pixelSize: 15
             color: "#212121"
         }
@@ -940,21 +940,21 @@ PageView{
         Text {
             x: 110+300
             y: 225
-            text: root.windturb1_40007
+            text: root.bmsAdd0005
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 110+300
             y: 245
-            text: root.windturb1_40007
+            text: root.bmsAdd0011
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 110+300
             y: 265
-            text: root.windturb1_40007
+            text: root.bmsAdd0020
             font.pixelSize: 15
             color: "#212121"
         }
@@ -983,21 +983,21 @@ PageView{
         Text {
             x: 250+300
             y: 225
-            text: root.windturb1_40007
+            text: root.bmsAdd0008
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 250+300
             y: 245
-            text: root.windturb1_40007
+            text: root.bmsAdd0014
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 250+300
             y: 265
-            text: root.windturb1_40007
+            text: root.bmsAdd0017
             font.pixelSize: 15
             color: "#212121"
         }
@@ -1040,28 +1040,28 @@ PageView{
         Text {
             x: 110
             y: 290
-            text: root.windturb1_40007
+            text: root.bmsAdd0023
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 110
             y: 310
-            text: root.windturb1_40007
+            text: root.bmsAdd0022
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 110
             y: 330
-            text: root.windturb1_40007
+            text: root.bmsAdd0027
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 110
             y: 350
-            text: root.windturb1_40007
+            text: root.bmsAdd0026
             font.pixelSize: 15
             color: "#212121"
         }
@@ -1097,28 +1097,28 @@ PageView{
         Text {
             x: 110+300
             y: 290
-            text: root.windturb1_40007
+            text: root.bmsAdd0025
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 110+300
             y: 310
-            text: root.windturb1_40007
+            text: root.bmsAdd0024
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 110+300
             y: 330
-            text: root.windturb1_40007
+            text: root.bmsAdd0029
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 110+300
             y: 350
-            text: root.windturb1_40007
+            text: root.bmsAdd0028
             font.pixelSize: 15
             color: "#212121"
         }
@@ -1140,7 +1140,7 @@ PageView{
         Text {
             x: 110
             y: 395
-            text: root.windturb1_40261
+            text: root.bmsAdd0002Bit0
             font.pixelSize: 15
             color: "#212121"
         }
@@ -1154,7 +1154,7 @@ PageView{
         Text {
             x: 230
             y: 395
-            text: root.windturb1_40261
+            text: root.bmsAdd0002Bit1
             font.pixelSize: 15
             color: "#212121"
         }
@@ -1168,7 +1168,7 @@ PageView{
         Text {
             x: 350
             y: 395
-            text: root.windturb1_40261
+            text: root.bmsAdd0002Bit3
             font.pixelSize: 15
             color: "#212121"
         }
@@ -1182,7 +1182,7 @@ PageView{
         Text {
             x: 470
             y: 395
-            text: root.windturb1_40261
+            text: root.bmsAdd0002Bit2
             font.pixelSize: 15
             color: "#212121"
         }
@@ -1197,7 +1197,7 @@ PageView{
         Text {
             x: 110
             y: 415
-            text: root.windturb1_40261
+            text: root.bmsAdd0002Bit4
             font.pixelSize: 15
             color: "#212121"
         }
@@ -1211,7 +1211,7 @@ PageView{
         Text {
             x: 230
             y: 415
-            text: root.windturb1_40261
+            text: root.bmsAdd0002Bit5
             font.pixelSize: 15
             color: "#212121"
         }
@@ -1225,7 +1225,7 @@ PageView{
         Text {
             x: 350
             y: 415
-            text: root.windturb1_40261
+            text: root.bmsAdd0002Bit6
             font.pixelSize: 15
             color: "#212121"
         }
@@ -1239,7 +1239,7 @@ PageView{
         Text {
             x: 470
             y: 415
-            text: root.windturb1_40261
+            text: root.bmsAdd0002Bit7
             font.pixelSize: 15
             color: "#212121"
         }
@@ -1254,7 +1254,7 @@ PageView{
         Text {
             x: 110
             y: 435
-            text: root.windturb1_40261
+            text: root.bmsAdd0002Bit8
             font.pixelSize: 15
             color: "#212121"
         }
@@ -1268,7 +1268,7 @@ PageView{
         Text {
             x: 230
             y: 435
-            text: root.windturb1_40261
+            text: root.bmsAdd0002Bit9
             font.pixelSize: 15
             color: "#212121"
         }

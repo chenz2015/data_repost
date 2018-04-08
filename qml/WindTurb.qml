@@ -706,63 +706,63 @@ PageView{
         Text {
             x: 200
             y: 75
-            text: root.var_nonbool
+            text: root.windturb2Add0001
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 200
             y: 95
-            text: root.var_nonbool
+            text: root.windturb2Add0000
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 200
             y: 115
-            text: root.var_nonbool
+            text: root.windturb2Add0002
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 200
             y: 135
-            text: root.var_nonbool
+            text: root.windturb2Add0003
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 200
             y: 155
-            text: root.var_nonbool
+            text: root.windturb2Add0004
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 200
             y: 175
-            text: root.var_nonbool
+            text: root.windturb2Add0005
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 200
             y: 195
-            text: root.var_nonbool
+            text: root.windturb2Add0006
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 200
             y: 215
-            text: root.var_nonbool
+            text: root.windturb2Add0007
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 200
             y: 235
-            text: root.var_nonbool
+            text: root.windturb2Add0008
             font.pixelSize: 15
             color: "#212121"
         }
@@ -791,14 +791,14 @@ PageView{
         Text {
             x: 80
             y: 280+25
-            text: root.var_bool
+            text: root.windturb2Add0010Bit5
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 100
             y: 300+25
-            text: root.var_bool
+            text: root.windturb2Add0010Bit2
             font.pixelSize: 15
             color: "#212121"
         }
@@ -819,14 +819,14 @@ PageView{
         Text {
             x: 170
             y: 280+25
-            text: root.var_bool
+            text: root.windturb2Add0010Bit6
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 190
             y: 300+25
-            text: root.var_bool
+            text: root.windturb2Add0010Bit3
             font.pixelSize: 15
             color: "#212121"
         }
@@ -847,14 +847,14 @@ PageView{
         Text {
             x: 260
             y: 280+25
-            text: root.var_bool
+            text: root.windturb2Add0010Bit0
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 280
             y: 300+25
-            text: root.var_bool
+            text: root.windturb2Add0010Bit4
             font.pixelSize: 15
             color: "#212121"
         }
@@ -868,7 +868,7 @@ PageView{
         Text {
             x: 350
             y: 280+25
-            text: root.var_bool
+            text: root.windturb2Add0010Bit1
             font.pixelSize: 15
             color: "#212121"
         }
@@ -890,7 +890,7 @@ PageView{
         Text {
             x: 100
             y: 380
-            text: root.var_bool
+            text: root.windturb2Add0034
             font.pixelSize: 15
             color: "#212121"
         }
@@ -912,14 +912,14 @@ PageView{
         Text {
             x: 210
             y: 380
-            text: root.var_bool
+            text: root.windturb2Add0011Bit0
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 210
             y: 400
-            text: root.var_bool
+            text: root.windturb2Add0011Bit4
             font.pixelSize: 15
             color: "#212121"
         }
@@ -941,14 +941,14 @@ PageView{
         Text {
             x: 320
             y: 380
-            text: root.var_bool
+            text: root.windturb2Add0011Bit1
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 320
             y: 400
-            text: root.var_bool
+            text: root.windturb2Add0011Bit3
             font.pixelSize: 15
             color: "#212121"
         }
@@ -970,14 +970,14 @@ PageView{
         Text {
             x: 430
             y: 380
-            text: root.var_bool
+            text: root.windturb2Add0011Bit5
             font.pixelSize: 15
             color: "#212121"
         }
         Text {
             x: 430
             y: 400
-            text: root.var_bool
+            text: root.windturb2Add0011Bit2
             font.pixelSize: 15
             color: "#212121"
         }
